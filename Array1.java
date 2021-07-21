@@ -12,7 +12,7 @@ public class Array1 {
 		a[4]=50;
 		for(int i=0;i<=a.length;i++)
 		{
-			System.out.println("Element of array is:"+a[i]);
+			System.out.println("Element of array is::"+a[i]);
 		}
 	}//comments
 }
